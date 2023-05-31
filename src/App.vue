@@ -2,7 +2,7 @@
   <!-- <olmap></olmap> -->
   <DrawMap></DrawMap>
 </template>
-<script>
+<script>   
 import olmap from './components/olMap.vue'
 import DrawMap from './components/DrawMap.vue'
 export default {
